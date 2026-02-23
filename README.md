@@ -38,9 +38,4 @@
 
 ---
 
----
-
-
----
-
 ✨ *"Evoluindo cada dia mais na tecnologia!"*
