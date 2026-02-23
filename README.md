@@ -3,7 +3,7 @@
 <p align="center">
 🚀 Iniciando minha jornada como Desenvolvedor <br>
 💻 Apaixonado por tecnologia, manutenção e programação <br>
-📍 Manaus - AM
+
 </p>
 
 ---
@@ -38,17 +38,9 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-<a href="https://github.com/SEU-USUARIO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
-</div>
-
 ---
 
 
 ---
 
-✨ *"Evoluindo um pouco a cada dia na tecnologia!"*
+✨ *"Evoluindo cada dia mais na tecnologia!"*
